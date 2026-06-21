@@ -1,55 +1,33 @@
-# BRAIN.md — Current Reality
+# BRAIN
 
-<!--
-INSTRUCTIONS FOR AI:
-- OVERWRITE this entire file at end of every session
-- Keep total content under 300 words
-- This is the most important file. Always read this first after SPEC.md
--->
+Last Updated:
+2026-06-21
 
-Last updated: [YYYY-MM-DD]
-Account used: [A / B / C / D]
-Model used: [Claude / ChatGPT / Gemini / Perplexity]
+Current Reality:
+- Goal: Find the best home loan in India
+- Phase: Research
+- Status: Project started
+- Confidence: Low
 
----
+Current State:
+- We have created the repository
+- PROJECT_BRIEF.md exists
+- No lender research completed yet
 
-## Current Reality
+Current Best Hypothesis:
+- SBI, HDFC and ICICI will likely be among the strongest candidates
 
-Goal: [One sentence — what are we trying to do RIGHT NOW]
-Blocker: [What is stopping progress, or write: none]
-Confidence: [High / Medium / Low]
+Known Facts:
+- No facts collected yet
 
----
+Open Questions:
+1. Which banks currently offer the lowest effective rate?
+2. What hidden charges matter most?
+3. Fixed or floating rate for a 20-year loan?
+4. Which lender has the best service quality?
 
-## Current State
+Next Action:
+Research top 10 Indian home loan lenders and compare them.
 
-Phase: [Research / Building / Testing / Validating]
-Active experiment: [EXP-001 or none]
-Next action: [Single specific task — one sentence only]
-
----
-
-## Key Facts (confirmed observations only — no opinions)
-
-- FACT: [short one-line observation with numbers if possible]
-- FACT: [short one-line observation with numbers if possible]
-
----
-
-## Current Best Hypothesis
-
-[One sentence: what we currently believe is true about this project]
-
----
-
-## Biggest Current Risk
-
-[One sentence: what single thing could make us wrong]
-
----
-
-## Last Session Summary
-
-What we did: [one sentence]
-What we found: [one sentence]
-Next session starts with: [one sentence — exact first task]
+Biggest Risk:
+Making a decision using incomplete lender comparisons.
