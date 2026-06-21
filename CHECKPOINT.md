@@ -1,69 +1,39 @@
-# CHECKPOINT.md — Resume Point
+# CHECKPOINT
 
-<!--
-INSTRUCTIONS FOR AI:
-- OVERWRITE this file after every completed step
-- This file is how a new AI or new account knows exactly where to start
-- Always include the exact resume prompt at the bottom
--->
+Last Updated:
+2026-06-21
 
-Last updated: [YYYY-MM-DD HH:MM]
-Account: [A / B / C / D]
-Model: [Claude / ChatGPT / Gemini / Perplexity]
+Current Step:
+1
 
----
+Step Name:
+Initial Project Setup
 
-## Active Task
+Completed:
+- Repository created
+- PROJECT_BRIEF.md created
+- BRAIN.md created
 
-[What task is currently in progress — one sentence]
+Next Step:
+Research top Indian home loan lenders
 
----
+Current Blocker:
+None
 
-## Step Progress
+Files Updated:
+- PROJECT_BRIEF.md
+- BRAIN.md
 
-Total steps: [N]
-Completed steps: [Step 1, Step 2, Step 3...]
-Current step: [Step N — name]
-Next step: [Step N+1 — name]
+Resume Instruction:
+Read PROJECT_BRIEF.md
+Read BRAIN.md
+Continue from Next Step only.
+Do not repeat completed work.
 
----
+Dead Drop Rule:
+Every AI response must end with:
 
-## Files Updated So Far
-
-- [filename] — [done / in-progress]
-- [filename] — [done / in-progress]
-
----
-
-## Dead Drop (End Every Response With This)
-
-AI must output this block at the bottom of EVERY response — not just when stopping:
-
-```
----CHECKPOINT---
-Step completed: [N — name]
-Next step: [N+1 — name]
-Files to update: [list]
-Status: [one sentence]
----END CHECKPOINT---
-
-RESUME: Continue Step [N+1]
-Brain: https://raw.githubusercontent.com/vishalm111296-commits/ai-brain-os/main/BRAIN.md
-Checkpoint: https://raw.githubusercontent.com/vishalm111296-commits/ai-brain-os/main/CHECKPOINT.md
-```
-
----
-
-## Exact Resume Prompt for Next Account or Model
-
-Copy and paste this into any new AI account or model to continue:
-
-```
-Read these files:
-BRAIN: https://raw.githubusercontent.com/vishalm111296-commits/ai-brain-os/main/BRAIN.md
-CHECKPOINT: https://raw.githubusercontent.com/vishalm111296-commits/ai-brain-os/main/CHECKPOINT.md
-
-Continue from next unfinished step only.
-Do not repeat completed steps.
-Output checkpoint block when done.
-```
+RESUME:
+Current Step: [step]
+Next Step: [next step]
+File To Update: CHECKPOINT.md
